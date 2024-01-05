@@ -1,4 +1,4 @@
-### Olá!! Me chamo Rayane, as pode me chamar de Ray! 👋
+### Olá!! Me chamo Rayane, mas pode me chamar de Ray! 👋
 
 - 🔭 Atualmente estudando MySQL
 - 🌱 Meu objetivo é conquistar uma vaga como Full Stack
