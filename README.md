@@ -1,8 +1,9 @@
 ### Olá!! Me chamo Rayane, mas pode me chamar de Ray! 👋
 
-- 🔭 Atualmente estudando MySQL
-- 🌱 Meu objetivo é conquistar uma vaga como Full Stack
-- 💬 Sempre estudando...
+- 🔭 Atualmente estudante de Ciência da computação
+- 🌱 Meu objetivo é conquistar uma vaga como Backend
+- 💬 Sempre curiosa...
+- 💚 Kotlin em execução
 - ⚡ Fato curioso: Prefiro mouse sem fio
   
 <div>
